@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Dancing by the Seine "
+date: 2020-01-24
+---
+
 Today was one of the best evenings of my life. For the first time in my life, I went dancing. 
 Along the banks of seine surrounded by lovely, passionate people full of energy, it was one hell of an experience.
 
