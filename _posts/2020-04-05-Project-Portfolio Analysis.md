@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Portfolio Analyzer
+title: "Project Portfolio Analyzer"
 date: 2020-04-05
 ---
 
